@@ -1,1 +1,1 @@
-# Glowing Loader
+# Glowing Loader Ring
