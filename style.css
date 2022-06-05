@@ -15,5 +15,5 @@ body {
 }
 
 .glowing span {
-    position: absolute;
+    position: absolute;border-radius: 50%;
 }
