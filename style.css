@@ -32,7 +32,7 @@ body {
     top: 40;
     bottom: 40;
     left: 40;
-    right: 0;
+    right: 40;
     border: 1px solid rgba(255, 255, 255, 0.1);
     animation: animate 4s linear infinite;
 }
