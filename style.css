@@ -19,4 +19,6 @@ body {
     box-sizing: border-box;
 }
 
-.glowing span:nth-child(1) {top: 0;}
+.glowing span:nth-child(1) {
+    top: 0;
+}
