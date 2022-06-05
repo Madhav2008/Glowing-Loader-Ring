@@ -57,6 +57,7 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.05);
     animation: animate 4s linear infinite;
 }
+
 .glowing span:nth-child(1)::before {
     background: rgba(134, 255, 0, 1);
     box-shadow: 0 0 20px rgba(134, 255, 0, 1),
@@ -65,6 +66,7 @@ body {
         0 0 80px rgba(134, 255, 0, 1),
         0 0 0 4px rgba(134, 255, 0, 0.1);
 }
+
 .glowing span:nth-child(3) {
     top: 80px;
     bottom: 80px;
