@@ -39,7 +39,7 @@ body {
 
 .glowing span:nth-child(3) {
     top: 80px;
-    bottom: 40px;
+    bottom: 80px;
     left: 40px;
     right: 40px;
     border: 1px solid rgba(255, 255, 255, 0.1);
