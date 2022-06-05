@@ -83,4 +83,6 @@ body {
         0 0 60px rgba(0, 226, 255, 1),
         0 0 80px rgba(0, 226, 255, 1),
         0 0 0 4px rgba(0, 226, 255, 0.1);
-}@keyframes animate {}
+}
+
+@keyframes animate {}
