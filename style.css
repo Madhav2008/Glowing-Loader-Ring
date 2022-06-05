@@ -21,7 +21,8 @@ body {
 
 .glowing span::before {
     content: '';
-    position: absolute;top: 50%;
+    position: absolute;
+    top: 50%;
 }
 
 .glowing span:nth-child(1) {
