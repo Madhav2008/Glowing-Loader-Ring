@@ -40,7 +40,7 @@ body {
 .glowing span:nth-child(3) {
     top: 80px;
     bottom: 80px;
-    left: 40px;
+    left: 80px;
     right: 40px;
     border: 1px solid rgba(255, 255, 255, 0.1);
     animation: animate 4s linear infinite;
