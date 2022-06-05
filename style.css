@@ -4,4 +4,4 @@ body {
     background: #000;
 }
 
-.glowing {}
+.glowing {position: absolute;}
