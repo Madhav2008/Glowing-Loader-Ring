@@ -55,7 +55,7 @@ body {
     left: 40px;
     right: 40px;
     border: 1px solid rgba(255, 255, 255, 0.05);
-    animation: animate-reverse 4s linear infinite;
+    animation: animate-reverse 3s linear infinite;
 }
 
 .glowing span:nth-child(2)::before {
