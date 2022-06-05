@@ -39,7 +39,7 @@ body {
     animation: animate 4s linear infinite;
 }
 
-.glowing span:nth-child(1)::before {}
+.glowing span:nth-child(1)::before {background: rgba(134, 255, 0, 1);}
 
 .glowing span:nth-child(2) {
 
