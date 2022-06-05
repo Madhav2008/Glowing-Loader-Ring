@@ -20,5 +20,5 @@ body {
 }
 
 .glowing span:nth-child(1) {
-    top: 0;
+    top: 0;bottom: 0;
 }
