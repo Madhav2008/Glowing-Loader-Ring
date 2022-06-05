@@ -17,4 +17,6 @@ body {
     position: absolute;
     border-radius: 50%;
     box-sizing: border-box;
-}.glowing span:nth-child(1) {}
+}
+
+.glowing span:nth-child(1) {}
