@@ -23,7 +23,8 @@ body {
     content: '';
     position: absolute;
     top: 50%;
-    left: 0;width: 10px;
+    left: 0;
+    width: 10px;
 }
 
 .glowing span:nth-child(1) {
