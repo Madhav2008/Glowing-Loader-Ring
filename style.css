@@ -19,7 +19,8 @@ body {
     box-sizing: border-box;
 }
 
-.glowing span::before {content: '';
+.glowing span::before {
+    content: '';
     position: absolute;
     border-radius: 50%;
     box-sizing: border-box;
