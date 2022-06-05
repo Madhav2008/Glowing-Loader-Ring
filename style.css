@@ -14,4 +14,4 @@ body {
     height: 260px;
 }
 
-.glowing span {}
+.glowing span {position: absolute;}
