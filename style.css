@@ -41,7 +41,7 @@ body {
     top: 80px;
     bottom: 80px;
     left: 80px;
-    right: 40px;
+    right: 80px;
     border: 1px solid rgba(255, 255, 255, 0.1);
     animation: animate 4s linear infinite;
 }
