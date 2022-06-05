@@ -95,7 +95,7 @@ body {
     }
 }
 
-@keyframes animate {
+@keyframes animate-reverse {
     0% {
         transform: rotate(0deg);
     }
