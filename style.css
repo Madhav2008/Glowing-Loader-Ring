@@ -18,6 +18,11 @@ body {
     border-radius: 50%;
     box-sizing: border-box;
 }
+.glowing span {
+    position: absolute;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
 
 .glowing span:nth-child(1) {
     top: 0;
