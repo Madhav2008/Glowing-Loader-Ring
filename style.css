@@ -25,7 +25,7 @@ body {
     top: 50%;
     left: 0;
     width: 10px;
-    height: 10px;
+    height: 10px;background: #ff0;
 }
 
 .glowing span:nth-child(1) {
