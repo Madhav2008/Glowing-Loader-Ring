@@ -26,7 +26,8 @@ body {
     left: 0;
     width: 10px;
     height: 10px;
-    background: #ff0;border-radius: 50%;
+    background: #ff0;
+    border-radius: 50%;
 }
 
 .glowing span:nth-child(1) {
