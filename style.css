@@ -9,5 +9,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #ff0;width: 260px;height: 260px;
+    background: #ff0;
+    width: 260px;
+    height: 260px;
 }
